@@ -1,0 +1,132 @@
+body{
+    background-color: #b6865e;
+}
+
+h2{
+    color: #4b4b4b;
+}
+
+#header {
+    background: rgb(182, 134, 94); /* Old browsers */
+    background: -moz-linear-gradient(top, rgb(182, 134, 94) 0%, rgb(162, 118, 57) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(182, 134, 94)), color-stop(100%, rgb(162, 118, 57))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgb(182, 134, 94) 0%, rgb(162, 118, 57) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgb(182, 134, 94) 0%, rgb(162, 118, 57) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgb(182, 134, 94) 0%, rgb(162, 118, 57) 100%); /* IE10+ */
+    background: linear-gradient(to bottom, rgb(182, 134, 94) 0%, rgb(162, 118, 57) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf974e', endColorstr='#a5691f',GradientType=0 ); /* IE6-9 */
+    opacity: 0.95;
+
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    box-shadow: 0 3px 15px 0px rgba(0, 0, 0, 0.58);
+}
+
+#header h1{
+    color: #000000;
+    opacity: .55;
+    text-align: center;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+#logo-panel{
+    padding-top: 100px;
+    background-color: #fff7e5;
+    height: 370px;
+}
+#logo-panel .store-icon{
+    margin: 10px;
+}
+#logo-panel .app-icon{
+    width: 250px;
+    height: 250px;
+}
+
+
+#body{
+    background-color: #ecd5a9;
+}
+#body .container{
+    width: 75%;
+}
+#body .section{
+    padding: 100px;
+}
+#body .section div{
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+#body h1{
+    text-align: right;
+    color: #323232;
+    margin-top: 70;
+}
+#body h2{
+    color: #4b4b4b;
+    display: inline;
+    padding: 20px;
+}
+
+#excel-panel{
+    background-color: #fff7e5;
+}
+#excel-panel .container{
+    width: 75%;
+}
+#excel-panel .section{
+    padding: 100px;
+}
+#excel-panel .container h1{
+    text-align: right;
+    color: #323232;
+}
+#excel-panel img{
+    display: inline;
+}
+#excel-panel hr{
+    display: block; height: 1px;
+    border: 0; border-top: 1px solid #c8c8c8;
+    margin: 1em 0; padding: 0;
+}
+
+
+#excel{
+    width: 400px;
+    margin: 20px;
+    box-shadow: 0 3px 15px 0px rgba(0, 0, 0, 0.58);
+
+}
+
+#excel-icon{
+    margin: 30px;
+}
+
+
+
+
+#footer{
+
+}
+
+.mint-bar{
+    height: 5px;
+    background-color: #adedb5;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+
+

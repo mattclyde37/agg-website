@@ -133,7 +133,14 @@ h2{
 
 
 #footer{
-
+    opacity: .9;
+}
+#footer img{
+    display: inline;
+    margin: 50px;
+}
+#footer span{
+    font-size: large;
 }
 
 .mint-bar{
